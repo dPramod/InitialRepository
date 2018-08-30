@@ -4,6 +4,8 @@ package Training.Git.Repository.InitialCommit;
  * @author Pramod Divakarla
  * This is the first file to test on how git works with eclipse
  *
+ * TEST 2
+ *
  */
 public class HelloWorld {
 
